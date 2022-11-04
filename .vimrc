@@ -21,6 +21,7 @@ filetype plugin on
 filetype indent on
 syntax on
 
+set numbers
 set wildmenu
 set autowrite
 
@@ -130,3 +131,5 @@ map <leader>to :tabonly<cr>
 map <leader>tc :tabclose<cr>
 map <leader>tm :tabmove
 map <leader>t<leader> :tabnext 
+
+colorscheme onedark
