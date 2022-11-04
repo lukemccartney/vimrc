@@ -21,7 +21,7 @@ filetype plugin on
 filetype indent on
 syntax on
 
-set numbers
+set number
 set wildmenu
 set autowrite
 
