@@ -141,3 +141,8 @@ map <leader>t<leader> :tabnext
 
 colorscheme onedark
 ```
+3. Install the plugs -
+```
+vim
+:PlugInstall
+```
